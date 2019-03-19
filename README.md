@@ -6,3 +6,4 @@
 
 ### 2019/03/19
 * Leetcode 486. Predict the Weather (Medium)
+* Leetcode 2. Add Two Numbers (Medium)
