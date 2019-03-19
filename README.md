@@ -3,3 +3,6 @@
 ### 2019/03/18
 * Leetcode 5. Longest Palindromic Substring (Medium)
 * Leetcode 547. Friend Circles (Medium)
+
+### 2019/03/19
+* Leetcode 486. Predict the Weather (Medium)
