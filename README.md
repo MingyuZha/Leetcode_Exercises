@@ -7,3 +7,9 @@
 ### 2019/03/19
 * Leetcode 486. Predict the Weather (Medium)
 * Leetcode 2. Add Two Numbers (Medium)
+
+### 2019/03/20
+
+* Leetcode 45. Jump Game II (Hard)
+* Leetcode 773. Sliding Puzzle (Hard)
+* Leetcode 15. 3Sum (Medium)
