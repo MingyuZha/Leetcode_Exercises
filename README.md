@@ -20,3 +20,7 @@
 * Leetcode 207. Course Schedule (Medium)
 * Leetcode 53. Maximum Subarray (Easy)
 
+### 2019/03/22
+
+* Leetcode 4. Median of Two Sorted Arrays (Hard)
+* Leetcode 3. Longest Substring Without Repeating Characters (Medium)
