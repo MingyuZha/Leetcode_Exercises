@@ -24,3 +24,7 @@
 
 * Leetcode 4. Median of Two Sorted Arrays (Hard)
 * Leetcode 3. Longest Substring Without Repeating Characters (Medium)
+
+### 2019/03/24
+
+* Longest Common Subsequence (LCA)
