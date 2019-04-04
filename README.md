@@ -35,3 +35,6 @@
 
 ### 2019/04/02
 * [Leetcode 41. First Missing Positive](./Array/041.First_Missing_Positive/readme.md)
+
+### 2019/04/03
+
