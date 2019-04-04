@@ -32,3 +32,6 @@
 ### 2019/03/25
 
 * [Lowest Common Ancestor in Binary Tree (Medium)](./Tree/236.Lowest_Common_Ancestor/readme.md)
+
+### 2019/04/02
+* [Leetcode 41. First Missing Positive](./Array/041.First_Missing_Positive/readme.md)
