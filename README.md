@@ -34,8 +34,8 @@
 * [Lowest Common Ancestor in Binary Tree (Medium)](./Tree/236.Lowest_Common_Ancestor/readme.md)
 
 ### 2019/04/02
-* [Leetcode 41. First Missing Positive](./Array/041.First_Missing_Positive/readme.md)
+* [Leetcode 41. First Missing Positive (Hard)](./Array/041.First_Missing_Positive/readme.md)
 
 ### 2019/04/03
-* [Leetcode 9. Palindrome Number](./Math/009.Palindrome_Number/readme.md)
-* [Leetcode 904. Fruit Into Baskets](./Two-pointers/904.Fruit_Into_Baskets/readme.md)
+* [Leetcode 9. Palindrome Number (Easy)](./Math/009.Palindrome_Number/readme.md)
+* [Leetcode 904. Fruit Into Baskets (Medium)](./Two-pointers/904.Fruit_Into_Baskets/readme.md)
