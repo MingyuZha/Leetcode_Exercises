@@ -39,3 +39,4 @@
 ### 2019/04/03
 * [Leetcode 9. Palindrome Number (Easy)](./Math/009.Palindrome_Number/readme.md)
 * [Leetcode 904. Fruit Into Baskets (Medium)](./Two-pointers/904.Fruit_Into_Baskets/readme.md)
+* [Leetcode 929. Unique Email Addresses (Easy)](./String/929.Unique_Email_Addresses/readme.md)
