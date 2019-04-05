@@ -44,4 +44,4 @@
 
 ### 2019/04/04
 * [Leetcode 482. License Key Formatting (Easy)](./String/482.License_Key_Formatting/readme.md)
-
+* [Leetcode 857. Minimum Cost to Hire K Workers (Hard)](./Heap/857.Minimum_Cost_to_Hire_K_Workers/readme.md)
