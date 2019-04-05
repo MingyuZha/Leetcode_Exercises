@@ -41,3 +41,7 @@
 * [Leetcode 904. Fruit Into Baskets (Medium)](./Two-pointers/904.Fruit_Into_Baskets/readme.md)
 * [Leetcode 929. Unique Email Addresses (Easy)](./String/929.Unique_Email_Addresses/readme.md)
 * [Leetcode 399. Evaluate Division (Medium)](./Graph/399.Evaluate_Division/readme.md)
+
+### 2019/04/04
+* [Leetcode 482. License Key Formatting (Easy)](./String/482.License_Key_Formatting/readme.md)
+
