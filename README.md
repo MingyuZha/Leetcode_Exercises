@@ -46,3 +46,10 @@
 * [Leetcode 482. License Key Formatting (Easy)](./String/482.License_Key_Formatting/readme.md)
 * [Leetcode 857. Minimum Cost to Hire K Workers (Hard)](./Heap/857.Minimum_Cost_to_Hire_K_Workers/readme.md)
 * [Leetcode 844. Backspace String Compare (Easy)](./String/844.Backspace_String_Compare/readme.md)
+
+### 2019/04/05
+* [Leetcode 299. Bulls and Cows (Medium)](./Hash-Table/299.Bulls_and_Cows/readme.md)
+
+
+
+
