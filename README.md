@@ -51,5 +51,5 @@
 * [Leetcode 299. Bulls and Cows (Medium)](./Hash-Table/299.Bulls_and_Cows/readme.md)
 * [Leetcode 135. Candy (Hard)](./Greedy/135.Candy/readme.md)
 * [Leetcode 849. Maximize Distance to Closest Person (Easy)](./Two-pointers/849.Maximize_Distance_to_Closest_Person/readme.md)
-
+* [Leetcode 33. Search in Rotated Sorted Array (Medium)](./Binary-Search/33.Search_in_Rotated_Sorted_Array)
 
