@@ -83,7 +83,7 @@ public int search(int[] nums, int target) {
 /**
 		3   4   5   6   7   0   1   2
 		|           |               |
-	left         mid            right
+	      left         mid            right
 每次二分数组，得到的两段数组总有一段是满足单调递增条件的。判别的标准就是：
 	* if (nums[mid] >= nums[left]): left~mid段数组是单调增的
 	* else: mid~right段数组是单调增的
