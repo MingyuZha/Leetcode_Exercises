@@ -50,6 +50,8 @@ public List<List<String>> groupAnagrams(String[] strs) {
 ```java
 /**
     对每个string按照字符的字典顺序进行排序，以此作为Hashmap的key
+* Time complexity: O(NKlogK): 因为排序的时间复杂度为KlogK
+* Space complexity: O(NK)
 */
 public List<List<String>> groupAnagrams(String[] strs) {
 	HashMap<String, List<String>> map = new HashMap<>();
