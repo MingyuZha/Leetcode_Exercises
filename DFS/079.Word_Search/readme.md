@@ -27,8 +27,8 @@ Given word = "ABCB", return false.
 /**
 Target word: "AAB"
     C   A   A
-    A - A   A
-    |
+    A ← A   A
+    ↓
     B   C   D
 Solved by DFS
 * Time complexity: O(M*N*(4^K)): M, N are # of rows and columns of the board, K is the length of the word. Both DFS and BFS will take exponential time.
