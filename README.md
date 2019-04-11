@@ -63,3 +63,4 @@
 * [Leetcode 62. Unique Paths (Medium)](./DP/062.Unique_Paths/readme.md)
 * [Leetcode 63. Unique Paths II(Medium)](./DP/063.Unique_Paths_II/readme.md)
 * [Leetcode 64. Minimum Path Sum (Medium)](./DP/064.Minimum_Path_Sum/readme.md)
+* [Leetcode 79. Word Search (Medium)](./DFS/079.Word_Search/readme.md)
