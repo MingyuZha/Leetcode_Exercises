@@ -67,3 +67,6 @@
 
 ### 2019/04/13
 * [Leetcode 72. Edit Distance (Hard)](./DP/072.Edit_Distance/readme.md)
+
+### 2019/04/17
+* [Leetcode 23. Merge k Sorted Lists (Hard)](./Heap/023.Merge_k_Sorted_Lists/readme.md)
