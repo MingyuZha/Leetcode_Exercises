@@ -83,3 +83,7 @@
 * [Leetcode 104. Maximum Depth of Binary Tree (Easy)](./Tree/104.Maximum_Depth_of_Binary_Tree/readme.md)
 * [Leetcode 110. Balanced Binary Tree (Medium)](./Tree/110.Balanced_Binary_Tree/readme.md)
 * [数字在排序数组中出现的次数](./Binary-Search/数字在排序数组中出现的次数/readme.md)
+* [不用加减乘除做加法](./Bit-Manipulation/不用加减乘除做加法/readme.md)
+
+
+
