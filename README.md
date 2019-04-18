@@ -75,3 +75,4 @@
 * [最小的K个数](./Heap/最小的K个数/readme.md)
 * [数组中只出现1次的数字](./Bit-Manipulation/数组中只出现1次的数字/readme.md)
 * [数组中出现次数超过一半的数字](./Array/数组中出现次数超过一半的数字/readme.md)
+* [把数组排成最小的数](./Greedy/把数组排成最小的数/readme.md)
