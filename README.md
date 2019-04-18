@@ -70,3 +70,8 @@
 
 ### 2019/04/17
 * [Leetcode 23. Merge k Sorted Lists (Hard)](./Heap/023.Merge_k_Sorted_Lists/readme.md)
+
+### 2019/04/18
+* [最小的K个数](./Heap/最小的K个数/readme.md)
+* [数组中只出现1次的数字](./Bit-Manipulation/数组中只出现1次的数字/readme.md)
+* [数组中出现次数超过一半的数字](./Array/数组中出现次数超过一半的数字/readme.md)
