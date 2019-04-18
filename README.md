@@ -77,3 +77,9 @@
 * [数组中出现次数超过一半的数字](./Array/数组中出现次数超过一半的数字/readme.md)
 * [把数组排成最小的数](./Greedy/把数组排成最小的数/readme.md)
 * [Leetcode 264. Ugly Number II (Medium)](./DP/264.Ugly_Number_II/readme.md)
+
+### 2019/04/19
+* [Leetcode 167. Two Sum II (和为s的两个数字)](./Two-pointers/167.Two_Sum_II/readme.md)
+* [Leetcode 104. Maximum Depth of Binary Tree (Easy)](./Tree/104.Maximum_Depth_of_Binary_Tree/readme.md)
+* [Leetcode 110. Balanced Binary Tree (Medium)](./Tree/110.Balanced_Binary_Tree/readme.md)
+* [数字在排序数组中出现的次数](./Binary-Search/数字在排序数组中出现的次数/readme.md)
