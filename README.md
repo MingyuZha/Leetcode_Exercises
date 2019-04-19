@@ -89,3 +89,4 @@
 * [剑指offer：和为S的连续正数序列](./Two-pointers/和为S的连续正数序列/readme.md)
 * [剑指offer：二叉树的下一个节点](./Tree/二叉树的下一个节点/readme.md)
 * [Leetcode: 295. Find Median from Data Stream (Hard)](./Heap/295.Find_Median_from_Data_Stream/readme.md)
+* [Leetcode: 230. Kth Smallest Element in a BST (Medium)](./Tree/230.Kth_Smallest_Element_in_a_BST/readme.md)
