@@ -86,4 +86,4 @@
 * [剑指offer：不用加减乘除做加法](./Bit-Manipulation/不用加减乘除做加法/readme.md)
 * [Leetcode 142. Linked List Cycle II (Medium)](./Two-pointers/142.Linked_List_Cycle_II/readme.md)
 * [剑指offer：字符流中第一个不重复的字符](./Linked-List/字符流中第一个不重复的字符/readme.md)
-
+* [剑指offer：和为S的连续正数序列](./Two-pointers/和为S的连续正数序列/readme.md)
